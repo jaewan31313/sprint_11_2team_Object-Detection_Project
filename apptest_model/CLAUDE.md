@@ -8,4 +8,4 @@ result_image = model(image)
 입력이미지를 PIL 형태로 받고 출력이미지도 PIL 형태로 내놓습니다. 이 때 입력이미지와 출력이미지는 임의의 이미지 크기를 받을 수 있도록 합니다.
 즉, fc층은 없어야 합니다. 최대한 간단한 형태로 만들되 neral network 는 존재해야 합니다. conv 레이어트를 통과시켜주세요.
 
-pytorch nn.module 기반으로 만들어주세요
+pytorch nn.module 기반으로 만들어주햣
