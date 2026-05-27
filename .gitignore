@@ -1,0 +1,20 @@
+# 데이터셋 (용량 큼)
+ai11-level1-project/
+img_plus/
+
+# Claude 내부 파일
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# 학습 출력물 (용량 큼)
+baseline/outputs/
+baseline/data/yolo/
+
+# 기타
+test.py
+*.DS_Store
